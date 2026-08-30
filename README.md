@@ -1,48 +1,68 @@
-**
-Project Overview**
+# Online Learning Portal on Microsoft Azure
 
-This project demonstrates the design of a secure and scalable Online Learning Portal for a university.**
+## Project Overview
 
-**The platform allows:**
+This project demonstrates the design of a secure and scalable Online Learning Portal for a university.
+
+The platform provides:
+
 Student Registration
 Course Enrollment
 Assignment Submission
-Results Management
-The solution is designed using Microsoft Azure cloud services and follows security best practices.
+results Management
 
-**Business Requirements**
+The solution is designed using Microsoft Azure services and cloud security best practices.
 
-**The university requires**:
+## Problem Statement
+
+Universities require a secure and centralized platform for managing students, courses, assignments and academic results.
+
+The challenge is to design a cloud-native solution that supports scalability, security and high availability.
+
+## Business Requirements
+
 Student registration management
 Course enrollment tracking
 Assignment submission system
-Results publishing system
+Results management
 Secure cloud infrastructure
-High availability and scalability
+High availability
 
-**Solution Architecture
-Azure Services Used****
-Azure Front Door	
-Azure App Service	
+## Azure Architecture
+diagrams/AzureArchitecture.png
+## Database Design
+diagrams/ERD.png
+## Security Architecture
+diagrams/SecurityArchitecture.png
+
+## Azure Services Used
+
+Azure Front Door
+Azure App Service
 Azure SQL Database
-Azure Storage Account	
-Azure Key Vault	Stores 
-Azure Monitor	
-Microsoft Entra ID	
+Azure Storage Account
+Azure Key Vault
+Azure Monitor
+Microsoft Entra ID
 
-**Security Controls**
-Identity Security
+## Security Controls
+ 
 Multi-Factor Authentication (MFA)
 Conditional Access
-Microsoft Entra ID
-Access Control
 Role-Based Access Control (RBAC)
-
-**Roles:**
-Student
-Lecturer
-Administrator
-Data Protection
-Azure SQL Encryption
-Storage Encryption
+Azure Key Vault
+Data Encryption
 HTTPS/TLS
+
+## Skills Demonstrated
+
+Azure Administration
+Cloud Architecture
+Identity Management
+Database Design
+Security Architecture
+Zero Trust Security
+
+## Author
+
+Tshepang Chuene
