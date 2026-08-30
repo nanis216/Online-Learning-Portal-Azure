@@ -54,6 +54,19 @@ Azure Key Vault
 Data Encryption
 HTTPS/TLS
 
+
+## Azure Deployment
+
+The architecture was deployed in Microsoft Azure using:
+Azure Resource Group
+Azure Storage Account
+Azure SQL Database
+Azure App Service
+Azure Key Vault
+Microsoft Entra ID
+
+The deployment demonstrates cloud administration, identity management, security controls, and database services commonly used in enterprise environments.
+
 ## Skills Demonstrated
 
 Azure Administration
