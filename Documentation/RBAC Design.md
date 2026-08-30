@@ -1,43 +1,43 @@
-Role-Based Access Control (RBAC)
+**Role-Based Access Control (RBAC)
 
-Overview
+Overview**
 
 The Online Learning Portal uses Role-Based Access Control (RBAC) to enforce the principle of least privilege.
 
-Student
+**Student
 
-Permissions
+Permissions**
 View Courses
 View Assignments
 Submit Assignments
 View Results
 Manage Own Profile
 
-Restrictions
+**Restrictions**
 
 Cannot Delete Data
 Cannot Manage Users
 Cannot Modify Results
 
-Lecturer
+**Lecturer
 
 Permissions
-
+**
 Create Assignments
 Update Assignments
 View Submissions
 Grade Assignments
 Publish Results
 
-Restrictions
+**Restrictions**
 
 Cannot Manage Azure Resources
 Cannot Manage Security Policies
 
 
-Administrator
+**Administrator
 
-Permissions
+Permissions**
 
 Manage Azure Resources
 Manage Security Policies
